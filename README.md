@@ -4,7 +4,8 @@
 
 ## Performance
 
-!["第一次畫面"](C:\Users\USER\OneDrive\圖片\螢幕擷取畫面\螢幕擷取畫面 (45).png)
+!["1st 好畫面"](https://github.com/Avi-python/neovim_settings/assets/62063088/73bd11c2-06ed-4b19-81c8-e74668dfb022)
+
 
 ## reference tutorial
 Motivated by youtuber <b>typecraft</b>
