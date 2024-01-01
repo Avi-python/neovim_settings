@@ -9,6 +9,9 @@
 
 ## reference tutorial
 Motivated by youtuber <b>typecraft</b>
-[EP1](https://www.youtube.com/watch?v=zHTeCSVAFNY&t=993s&ab_channel=typecraft)
-[EP2](https://www.youtube.com/watch?v=zHTeCSVAFNY&t=993s&ab_channel=typecraft)
+- [EP1](https://www.youtube.com/watch?v=zHTeCSVAFNY&t=993s&ab_channel=typecraft)
+- [EP2](https://www.youtube.com/watch?v=4zyZ3sw_ulc)
+- [EP3](https://www.youtube.com/watch?v=S-xzYgTLVJE)
+
+
 
