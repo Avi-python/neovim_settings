@@ -6,8 +6,8 @@ return {
   config = function()
     local config = require("tokyonight")
     config.setup({
-      transparent = true
+      transparent = true,
     })
-    vim.cmd[[colorscheme tokyonight]]
+    -- vim.cmd[[colorscheme tokyonight]]
   end
 }
